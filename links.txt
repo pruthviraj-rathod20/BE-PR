@@ -1,0 +1,5 @@
+https://metamask.com/download
+
+https://sepolia-faucet.pk910.de/
+
+https://app.remix.live/#lang=en&optimize&runs=200&evmVersion&version=soljson-v0.8.34+commit.80d5c536.js
